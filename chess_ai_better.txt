@@ -1,0 +1,9 @@
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 O-O 9. h3 Nb8 10. d4 Nbd7 11. c4 c6 12. cxb5 axb5 13. Nc3 Bb7 14. Bg5 b4 15. Nb1 h6 16. Bh4 c5 17. dxe5 Nxe4 18. Bxe7 Qxe7 19. exd6 Qf6 20. Nbd2 Nxc3 21. bxc3 Nxd6 22. Nc4 Qe5 23. Bxf6 gxf6 24. Qh5 Rd8 25. Rad1 Qe6 26. Qxf7+ Kxf7 27. Ne5+ Ke8 28. Nxd7 Rxd7 29. Rxd7 Kxd7 30. Rd1+ Ke6 31. Ne4 f5 32. Nc5+ Kf6 33. Rd6+ Ke5 34. f4+ Kf5 35. Rd5+ Ke6 36. Rd6+ Kf7 37. Rxf6+ Kg8 38. Rg6+ Kh8 39. Qd7 Rd8 40. Qxd8#
+
+
+create python api in swagger that returns chess game from database, provide example input
+->
+show me result of get ID 42
+
+:)
+
