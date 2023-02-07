@@ -28,6 +28,6 @@ build {
   sources = ["source.amazon-ebs.sandbox-ami"]
 
   provisioner "shell" {
-    script = "./scripts/setup.sh"
+    script = "./setup.sh"
   }
 }
