@@ -9,8 +9,9 @@ terraform {
   required_version = ">= 1.2.0"
 
   backend "s3" {
-    bucket = "rch-terraform-state-bucket"
-    key    = "terraform.tfstate"
-    region = "eu-central-1"
+    bucket  = "rch-terraform-state-bucket"
+    key     = "terraform.tfstate"
+    region  = "eu-central-1"
+    profile = "default"
   }
 }
